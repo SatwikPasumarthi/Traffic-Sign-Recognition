@@ -25,12 +25,16 @@ The ﬁnal accuracy level of my deep learning model is recorded as 0.9618 and th
   
   
   ### Sample Outputs:
-![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/happy.PNG)
+![Image of DoubleCurve Sign](https://github.com/SatwikPasumarthi/Traffic-Sign-Recognition/blob/main/SampleOutputs/DoubleCurve.png)
 
-![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/angry.PNG)
 
-![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/sad.PNG)
+![Image of NoEntry Sign](https://github.com/SatwikPasumarthi/Traffic-Sign-Recognition/blob/main/SampleOutputs/NoEntry.png)
 
-![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/fear.PNG)
 
-![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/neutral.PNG)
+![Image of NoPassing Sign](https://github.com/SatwikPasumarthi/Traffic-Sign-Recognition/blob/main/SampleOutputs/NoPassing.png)
+
+
+![Image of SpeedLimit70 Sign](https://github.com/SatwikPasumarthi/Traffic-Sign-Recognition/blob/main/SampleOutputs/SpeedLimit70.png)
+
+
+![Image of Stop Sign](https://github.com/SatwikPasumarthi/Traffic-Sign-Recognition/blob/main/SampleOutputs/Stop.png)
